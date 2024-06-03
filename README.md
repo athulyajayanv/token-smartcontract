@@ -1,4 +1,4 @@
-# METACRAFTERs Final Assessment - ETH Beginner
+# METACRAFTERS Final Assessment - ETH Beginner
 
 This Solidity program is a simple token management contract that shows the basic syntax and features of the Solidity programming language. 
 
